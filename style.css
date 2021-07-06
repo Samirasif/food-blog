@@ -27,6 +27,7 @@ body{
     background-color: coral;
     border-radius: 80px;
 }
+
 .img-background{
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
@@ -35,4 +36,19 @@ body{
 .frame59{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
+}
+.recipie-site{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.partion{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px;
+    border-radius: 15px;
+    border-left: 10px solid;
+    box-shadow: 10px 30px 40px orange;
+
+
 }
