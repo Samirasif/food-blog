@@ -49,6 +49,18 @@ body{
     border-radius: 15px;
     border-left: 10px solid;
     box-shadow: 10px 30px 40px orange;
-
-
+}
+.display-block{
+    
+    height: 200px;
+    width: 200x;
+    margin: 100px;
+    
+}
+.img-item{
+    display: block;
+    text-align: center;
+}
+#margin{
+    text-align: center;
 }
