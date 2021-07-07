@@ -41,26 +41,59 @@ body{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
-.partion{
+.menu-part{
+
+}
+.partion-img{
     width: 30%;
-    margin-left: 2%;
-    margin-right: 2%;
-    padding: 5px;
+    margin: 5%;
+    border: 2px;
+    padding: 10px 10px;
     border-radius: 15px;
     border-left: 10px solid;
     box-shadow: 10px 30px 40px orange;
 }
+.border-part{
+width: 300px;
+display: block;
+}
 .display-block{
     
-    height: 200px;
-    width: 200x;
-    margin: 100px;
-    
-}
-.img-item{
+    height: 50px;
+    width: 500x;
     display: block;
     text-align: center;
+    padding-bottom: 100px;
 }
-#margin{
+.para-tag{
+    background-color: whitesmoke;
+    display: block;
+    width: 500px;
+    padding-left: 35%;
+
+}
+.img-item{
+    height: 400px;
+    width: 700px;
+
+    
+}
+.img-item img{
+    height: 100%;
+    width: 100%; 
+    display: inline-block;
+}
+.margin-center{
+    border: 2px;
+    text-align: center;
+    
+}
+#foot-ground{
+    background-color:darkslategray;
+    font-size: 20px;
+    padding: 20px 30px 40px;
     text-align: center;
 }
+
+
+
